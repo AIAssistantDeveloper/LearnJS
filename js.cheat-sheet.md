@@ -72,6 +72,4 @@ ___
   const greeting = `Hello, ${name}!`;
   ```
 ___
-~*_Remember to refer to the official JavaScript and React documentation for more in-depth information and examples._*~
-
-~*_I hope this cheat sheet helps you in your JavaScript journey! Let me know if there's anything else I can assist you with._*~
+> I hope this cheat sheet helps you in your JavaScript journey!
